@@ -62,9 +62,10 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="tailwind" width="50" height="50"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="tailwind" width="50" height="50"/> </a>
 </p> -->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shimu2621&show_icons=true&theme=merko&locale=en&layout=compact" alt="Shimu2621" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shimu2621&show_icons=true&theme=merko&locale=en" alt="Shimu2621" /></p>
+![Shimu2621's github stats](https://github-readme-stats.vercel.app/api?username=Shimu2621&show_icons=true&theme=radical)
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu2621&card_width=550&show_icons=true&theme=radical)](https://github.com/Shimu2621)
 
 <!-- <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimu2621&theme=highcontrast" alt="Shimu2621" />
