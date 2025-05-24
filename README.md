@@ -15,10 +15,10 @@
 <h3 align="left">💻 Currently Working On:</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" width="400"/>
 </p>
 
 - 🌱 - I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
@@ -85,15 +85,10 @@
 ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=api&logoColor=white)
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shimu2621&show_icons=true&theme=radical" alt="Shimu2621's github stats" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shimu2621&show_icons=true&theme=merko&locale=en&layout=compact" alt="Shimu2621" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shimu2621&show_icons=true&theme=merko&locale=en" alt="Shimu2621" /></p>
 
 <p align="center">
-  <a href="https://github.com/Shimu2621">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu2621&card_width=550&show_icons=true&theme=radical" alt="Top Languages Card" />
-  </a>
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimu2621&theme=highcontrast" alt="sShimu2621" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimu2621&theme=highcontrast" alt="Shimu2621" />
 </p>
