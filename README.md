@@ -2,10 +2,10 @@
   <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="MasterHead">
 </p> -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/vector-illustration-showing-female-software-engineer_1110958-62375.jpg" alt="MasterHead" width="700" />
+  <img width="400px" height="400px src="https://img.freepik.com/premium-photo/vector-illustration-showing-female-software-engineer_1110958-62375.jpg" alt="MasterHead" width="700" />
 </p>
 
-<h2 align="left">Hi there I'm Shimu Ziasmin. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hi there I'm Shimu Ziasmin. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h1 align="left">
   👩, About Me
