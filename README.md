@@ -81,6 +81,6 @@
 ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=api&logoColor=white)
 <br />
 
-![Shimu2621's github stats](https://github-readme-stats.vercel.app/api?username=Shimu2621&show_icons=true&theme=radical)
+<p align="center">![Shimu2621's github stats](https://github-readme-stats.vercel.app/api?username=Shimu2621&show_icons=true&theme=radical)</p>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu2621&card_width=550&show_icons=true&theme=radical)](https://github.com/Shimu2621)
+<p align="center">[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu2621&card_width=550&show_icons=true&theme=radical)](https://github.com/Shimu2621)</p>
