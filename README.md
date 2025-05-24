@@ -3,11 +3,11 @@
 </p> -->
 
 <h1 align="left">Hi there I'm Shimu Ziasmin. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h1 align="left">
+<!-- <h1 align="left">
   🧑, About Me
   <h3 align="left">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
 </h3>
-</h1>
+</h1> -->
 
 <!-- <img align="right"
 width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif"> -->
@@ -34,15 +34,8 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 5. _Continuous Learning_ 📚
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/shohaib-hossain-0792041ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shohaib-hossain-0792041ba" height="30" width="40" /></a>
-<a href="https://fb.com/ananta.asim.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ananta.asim.5" height="30" width="40" /></a>
-<a href="mailto:khanshohaibhossain@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="khanshohaibhossain@gmail.com" height="30" width="40" />
-</a>
-
-</p>
+<h3 align="left">Connect with me:<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h3>
+<p align="left"> <a href="mailto:shimu2621@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>&nbsp; <a href="https://www.linkedin.com/in/shimu-ziasmin-5127a5320/?trk=opento_sprofile_pfeditor" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>&nbsp; <a href="https://www.facebook.com/shimu.ziasmin.3" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> </p>
 
 🛠 &nbsp;Tech Stack
 
