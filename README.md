@@ -2,18 +2,18 @@
   <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="MasterHead">
 </p> -->
 <p align="center">
-  <img width="700" height="250" src="https://img.freepik.com/premium-photo/vector-illustration-showing-female-software-engineer_1110958-62375.jpg" alt="MasterHead" width="700" />
+  <img width="700" height="450" src="https://img.freepik.com/premium-photo/vector-illustration-showing-female-software-engineer_1110958-62375.jpg" alt="MasterHead" width="700" />
 </p>
 
 <h2 align="center">Hi there I'm Shimu Ziasmin. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<h1 align="left">
+<h3 align="left">
   👩, About Me
-  <h3 align="left">Hello! 👋 >
+  <h4 align="left">Hello! 👋 >
   I'm a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I focus on building clean, responsive user interfaces and efficient backend systems.<br><br>
   Passionate about creating seamless digital experiences and always open to learning new technologies. Let’s build something amazing together! 🚀
+</h4>
 </h3>
-</h1>
 
 <h3 align="left">💻 What I do:</h3>
 
@@ -24,7 +24,7 @@
 
 - 🌐 - Enthusiast of clean code, design patterns, solving complex problems, and scalable architectures.
 - 🧪 - Write Cypress tests to automate end-to-end workflows and boost confidence
-- 📫- How to reach me: shimu2621@gmail.com
+- 📫 - How to reach me: shimu2621@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
