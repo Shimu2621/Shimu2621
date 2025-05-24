@@ -1,8 +1,21 @@
 <!-- <p align="center">
   <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="MasterHead">
 </p> -->
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/vector-illustration-showing-female-software-engineer_1110958-62375.jpg" alt="MasterHead" width="700" />
+</p>
 
 <h2 align="left">Hi there I'm Shimu Ziasmin. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<h1 align="left">
+  👩, About Me
+  <h3 align="left">Hey! 👋  h3 align="left">
+  I'm a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I focus on building clean, responsive user interfaces and efficient backend systems.<br><br>
+  Passionate about creating seamless digital experiences and always open to learning new technologies. Let’s build something amazing together! 🚀
+</h3>
+</h1>
+
+<h3 align="left">💻 What I do:</h3>
 
 - 🌱 - I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
 
