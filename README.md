@@ -13,6 +13,15 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
+</p>
 
 <h3 align="left">
   👩, About Me
@@ -91,8 +100,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shimu2621&show_icons=true&theme=radical" alt="Shimu2621's github stats" />
 </p>
-
-<!-- <p align="center">[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu2621&card_width=550&show_icons=true&theme=radical)](https://github.com/Shimu2621)</p> -->
 
 <p align="center">
   <a href="https://github.com/Shimu2621">
