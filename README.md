@@ -92,3 +92,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu2621&card_width=550&show_icons=true&theme=radical" alt="Top Languages Card" />
   </a>
 </p>
+<p align="center">
+  <img src="https://your-hosted-svg-url.com/animated-workspace.svg" alt="Developer Workspace" width="400"/>
+</p>
