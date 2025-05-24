@@ -68,8 +68,9 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=api&logoColor=white)
 <br />
 
 <h3 align="center">Languages and Tools:</h3>
