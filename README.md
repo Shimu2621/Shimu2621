@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="MasterHead">
-</p>
+</p> -->
 
-<h1 align="center">Hi 👋, I'm Shimu Ziasmin</h1>
+<h1 align="center">Hi there I'm Shimu Ziasmin. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h1 align="left">
   🧑, About Me
   <h3 align="left">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
