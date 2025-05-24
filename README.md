@@ -34,7 +34,7 @@ width="400" height="350" src="https://user-images.githubusercontent.com/19783675
 
 5. _Continuous Learning_ 📚
 
-<h3 align="left">Connect with me:<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"></h3>
+<h3 align="left">Connect with me:<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="32px"></h3>
 <p align="left"> <a href="mailto:shimu2621@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>&nbsp; <a href="https://www.linkedin.com/in/shimu-ziasmin-5127a5320/?trk=opento_sprofile_pfeditor" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>&nbsp; <a href="https://www.facebook.com/shimu.ziasmin.3" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> </p>
 
 🛠 &nbsp;Tech Stack
