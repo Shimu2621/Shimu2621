@@ -6,7 +6,7 @@
 
 <h3 align="left">
   👩, About Me
-  <h4 align="left">Hello! 👋 >
+  <h4 align="left">Hello! 👋
   I'm a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I focus on building clean, responsive user interfaces and efficient backend systems.<br><br>
   Passionate about creating seamless digital experiences and always open to learning new technologies. Let’s build something amazing together! 🚀
 </h4>
@@ -18,17 +18,17 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800000&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F8F8F8&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" width="400"/>
 </p>
 
-- 🌱 - I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
+- 🌱 I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
 
-- 👩‍💻 - Committed to personal and professional growth, aiming to make meaningful contributions to the tech community.
-- 💾 - Integrating _MongoDB_ for database management with _Mongoose_
+- 👩‍💻 Committed to personal and professional growth, aiming to make meaningful contributions to the tech community.
+- 💾 Integrating _MongoDB_ for database management with _Mongoose_
 
-- 🌐 - Enthusiast of clean code, design patterns, solving complex problems, and scalable architectures.
-- 🧪 - Write Cypress tests to automate end-to-end workflows and boost confidence
-- 📫 - How to reach me: shimu2621@gmail.com
+- 🌐 Enthusiast of clean code, design patterns, solving complex problems, and scalable architectures.
+- 🧪 Write Cypress tests to automate end-to-end workflows and boost confidence
+- 📫 How to reach me: shimu2621@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,14 +47,14 @@
 
 <h3 align="left">🚀 Core Competencies</h3>
 
-📚 Continuously learning and adapting to the latest trends in frontend development and testing
+- 📚 Continuously learning and adapting to the latest trends in frontend development and testing
 
-⚡ Developing fast, SEO-friendly UIs with Next.js to boost performance and visibility
+- ⚡ Developing fast, SEO-friendly UIs with Next.js to boost performance and visibility
 
-🛠️ Implementing MongoDB, Mongoose, Express, Node.js Stack\*  
- _in Full Stack Development_ 🌐💻
+- 🛠️ Implementing MongoDB, Mongoose, Express, Node.js Stack\*  
+  _in Full Stack Development_ 🌐💻
 
-🔍 Enhancing test coverage using Cypress for reliable end-to-end testing
+- 🔍 Enhancing test coverage using Cypress for reliable end-to-end testing
 
 <h3 align="left">🛠 &nbsp;Tech Stack</h3>
 
