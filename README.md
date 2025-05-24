@@ -92,6 +92,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimu2621&card_width=550&show_icons=true&theme=radical" alt="Top Languages Card" />
   </a>
 </p>
-<div align="center">
-  <img src="https://your-hosted-svg-url.com/animated-workspace.svg" alt="Developer Workspace" width="400"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" width="400"/>
+</p>
