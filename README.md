@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" width="400"/>
 </p>
 
 - 🌱 I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
