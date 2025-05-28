@@ -2,7 +2,7 @@
   <img width="700" height="600" src="https://img.freepik.com/premium-photo/vector-illustration-showing-female-software-engineer_1110958-62375.jpg" alt="MasterHead" width="700" />
 </p>
 
-<h2 align="center">Hi there I'm Shimu Ziasmin. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hi there, I'm Shimu Ziasmin. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h3 align="left">
   👩, About Me
@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00008B&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" width="400"/>
 </p>
 
 - 🌱 I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
